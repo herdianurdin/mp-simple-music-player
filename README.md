@@ -10,4 +10,4 @@ This is a simple music player application that is intended to complete the Mobil
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Distributed under the GPL License. See [LICENSE](LICENSE) for more information.
