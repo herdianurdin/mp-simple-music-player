@@ -1,0 +1,59 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:viewportWidth="600"
+    android:viewportHeight="600"
+    android:width="600dp"
+    android:height="600dp"
+    tools:ignore="VectorRaster">
+    <group
+        android:translateX="-7000"
+        android:translateY="500">
+        <group
+            android:translateX="2050"
+            android:translateY="-168">
+            <path
+                android:pathData="M4950 -332H5550V268H4950V-332Z">
+                <aapt:attr
+                    name="android:fillColor">
+                    <gradient
+                        android:startX="4950.002"
+                        android:startY="-332.0007"
+                        android:endX="5550.001"
+                        android:endY="267.9981"
+                        android:tileMode="clamp">
+                        <item
+                            android:color="#6DAEFE"
+                            android:offset="0" />
+                        <item
+                            android:color="#0876FD"
+                            android:offset="1" />
+                    </gradient>
+                </aapt:attr>
+            </path>
+        </group>
+        <group
+            android:translateX="2050"
+            android:translateY="-168">
+            <path
+                android:pathData="M5381.17 -47.665L5381.17 -79.574C5381.17 -144.19 5322.443 -196.573 5249.998 -196.573C5177.552 -196.573 5118.826 -144.192 5118.826 -79.574L5118.826 -47.665C5107.542 -43.655 5100.002 -32.975 5100 -20.998L5100 91.68C5100.002 106.773 5111.848 119.209 5126.922 119.941L5126.922 123.104C5126.922 126.124 5129.371 128.573 5132.391 128.573L5156.375 128.573C5159.396 128.573 5161.845 126.124 5161.845 123.104L5161.845 -54.875C5161.845 -57.896 5159.396 -60.345 5156.375 -60.345L5143.019 -60.345L5143.019 -79.752C5143.019 -132.491 5190.895 -175.255 5250 -175.354C5309.102 -175.252 5356.981 -132.489 5356.981 -79.752L5356.981 -60.345L5343.626 -60.345C5340.605 -60.345 5338.156 -57.896 5338.156 -54.875L5338.156 123.104C5338.156 126.124 5340.605 128.573 5343.626 128.573L5367.609 128.573C5370.63 128.573 5373.079 126.124 5373.079 123.104L5373.079 119.941C5388.153 119.209 5399.999 106.773 5400 91.68L5400 -20.998C5399.999 -32.975 5392.459 -43.655 5381.175 -47.665Z"
+                tools:ignore="VectorPath">
+                <aapt:attr
+                    name="android:fillColor">
+                    <gradient
+                        android:startX="4949.997"
+                        android:startY="-332.0018"
+                        android:endX="5549.998"
+                        android:endY="268.0002"
+                        android:tileMode="clamp">
+                        <item
+                            android:color="#FFFFFF"
+                            android:offset="0" />
+                        <item
+                            android:color="#CCCCCC"
+                            android:offset="1" />
+                    </gradient>
+                </aapt:attr>
+            </path>
+        </group>
+    </group>
+</vector>
